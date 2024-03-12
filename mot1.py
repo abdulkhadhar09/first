@@ -28,3 +28,4 @@ def rotmotor(steps, direction):
 rotmotor(200, GPIO.LOW)
 GPIO.output(ena, GPIO.HIGH)
 GPIO.cleanup()
+//end//
